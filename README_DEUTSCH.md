@@ -25,7 +25,7 @@ Seit Oktober 2024 studiere ich **Wirtschaftsinformatik an der HTW Berlin** und v
 | Projekt | Beschreibung | Tech Stack |
 |---|---|---|
 | [🔐 PasswordManager](https://github.com/Rakiol/PasswordManager) | CLI Passwort-Manager mit AES-Verschlüsselung | Java, Gradle |
-| [🐍 PythonLearn](https://github.com/Rakiol/PythonLearn) | Python Übungen & Data-Analyse Scripts | Python |
+| [🐍 PythonLearn](https://github.com/Rakiol/PythonLearn) | Python Übungen für die Universität und Selbstudium | Python |
 
 ---
 
