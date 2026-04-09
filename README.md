@@ -25,7 +25,7 @@ Since October 2024, I've been studying **Business Informatics at HTW Berlin**, c
 | Project | Description | Tech Stack |
 |---|---|---|
 | [🔐 PasswordManager](https://github.com/Rakiol/PasswordManager) | CLI password manager with AES encryption | Java, Gradle |
-| [🐍 PythonLearn](https://github.com/Rakiol/PythonLearn) | Python exercises & data analysis scripts | Python |
+| [🐍 PythonLearn](https://github.com/Rakiol/PythonLearn) | Python exercises from university & self-study | Python |
 
 ---
 
