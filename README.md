@@ -25,6 +25,7 @@ Since October 2024, I've been studying **Business Informatics at HTW Berlin**, c
 | Project | Description | Tech Stack |
 |---|---|---|
 | [🐍 PortScanner](https://github.com/Rakiol/PortScanner) | A simple Python port scanner built to practice core Python concepts like functions, loops, sockets, and file I/O. | Python |
+| [💪 Workout-Planer](https://github.com/Rakiol/Workout-Planer) | A browser-based workout tracker to practice JavaScript fundamentals — DOM manipulation, localStorage and form validation. | JavaScript |
 | [🔐 PasswordManager](https://github.com/Rakiol/PasswordManager) | CLI password manager with AES encryption | Java, Gradle |
 | [🐍 PythonLearn](https://github.com/Rakiol/PythonLearn) | Python exercises from university & self-study | Python |
 
